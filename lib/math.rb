@@ -24,6 +24,6 @@ return mod
 end
 
 def square_root(num)
-square = num / num
+square = 
 return square
 end
