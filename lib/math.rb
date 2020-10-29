@@ -4,7 +4,7 @@ return add
 end
 
 def subtraction(num1, num2)
-subtract = num2 - num1
+subtract = num1 - num2
 return subtract
 end
 
